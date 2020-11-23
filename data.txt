@@ -1,0 +1,4 @@
+licenses,13,4000,4
+vehiclesByVin,4,600,2
+vehiclesByEN,6,400,2
+vehicles,10
